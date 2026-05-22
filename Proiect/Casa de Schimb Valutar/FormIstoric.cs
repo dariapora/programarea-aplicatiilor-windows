@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -12,7 +13,10 @@ namespace Casa_de_Schimb_Valutar
 
         private Guid bazaId;
         private Guid tintaId;
-        private string textPereche; 
+        private string textPereche;
+
+        private List<double> valBuy;
+        private List<double> valSell;
 
         public FormIstoric(Guid bazaId, Guid tintaId, string textPereche)
         {
@@ -22,12 +26,17 @@ namespace Casa_de_Schimb_Valutar
             this.bazaId = bazaId;
             this.tintaId = tintaId;
             this.textPereche = textPereche;
+
+            rbCumparare.CheckedChanged += (s, e) => ActualizeazaGrafic();
+            rbVanzare.CheckedChanged += (s, e) => ActualizeazaGrafic();
+            rbAmbele.CheckedChanged += (s, e) => ActualizeazaGrafic();
         }
 
         private void FormIstoric_Load(object sender, EventArgs e)
         {
             string formatSlashed = textPereche.Replace(" -> ", "/");
             this.Text = "Istoric Curs: " + formatSlashed;
+            lblTitlu.Text = "Evolutia cursului " + formatSlashed;
 
             IncarcaDate();
         }
@@ -80,14 +89,8 @@ namespace Casa_de_Schimb_Valutar
             dgvCursuri.Columns.Add("Buy", "Curs Cumparare");
             dgvCursuri.Columns.Add("Sell", "Curs Vanzare");
 
-            var seriesBuy = chartCursuri.Series["Cumparare"];
-            var seriesSell = chartCursuri.Series["Vanzare"];
-            seriesBuy.Points.Clear();
-            seriesSell.Points.Clear();
-
-            var axis = chartCursuri.ChartAreas["ChartArea1"].AxisX;
-            axis.LabelStyle.Format = "dd-MM-yy";
-            axis.LabelStyle.Angle = -45;
+            valBuy = new List<double>();
+            valSell = new List<double>();
 
             foreach (DataRow row in dt.Rows)
             {
@@ -100,13 +103,30 @@ namespace Casa_de_Schimb_Valutar
 
                 dgvCursuri.Rows.Add(data.ToString("dd-MM-yyyy"), buy.ToString("N4"), sell.ToString("N4"));
 
-                seriesBuy.Points.AddXY(data, (double)buy);
-                seriesSell.Points.AddXY(data, (double)sell);
+                valBuy.Add((double)buy);
+                valSell.Add((double)sell);
             }
 
-            chartCursuri.ChartAreas["ChartArea1"].AxisY.LabelStyle.Format = "N4";
-            chartCursuri.Titles.Clear();
-            chartCursuri.Titles.Add("Evolutie curs " + textPereche.Replace(" -> ", "/"));
+            ActualizeazaGrafic();
+        }
+
+        private void ActualizeazaGrafic()
+        {
+            if (valBuy == null || valSell == null) return;
+
+            var serii = new List<GraficLinie.Serie>();
+            bool aratiBuy = rbCumparare.Checked || rbAmbele.Checked;
+            bool aratiSell = rbVanzare.Checked || rbAmbele.Checked;
+
+            if (aratiBuy)
+                serii.Add(new GraficLinie.Serie { Nume = "Cumparare", Culoare = Color.YellowGreen, Valori = valBuy });
+            if (aratiSell)
+                serii.Add(new GraficLinie.Serie { Nume = "Vanzare", Culoare = Color.IndianRed, Valori = valSell });
+
+            pnlBuy.Visible = lblBuy.Visible = aratiBuy;
+            pnlSell.Visible = lblSell.Visible = aratiSell;
+
+            chartCursuri.SeteazaDate(serii);
         }
     }
 }

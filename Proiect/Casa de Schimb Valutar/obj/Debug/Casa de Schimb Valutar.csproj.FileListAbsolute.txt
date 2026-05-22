@@ -15,3 +15,4 @@ C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schi
 C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormTranzactie.resources
 C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormCursuri.resources
 C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormAdminTranzactii.resources
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormAdmin.resources
