@@ -1,0 +1,11 @@
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\bin\Debug\DataGridView si Aplicatii cu Ferestre Multiple.exe.config
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\bin\Debug\DataGridView si Aplicatii cu Ferestre Multiple.exe
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\bin\Debug\DataGridView si Aplicatii cu Ferestre Multiple.pdb
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView si Aplicatii cu Ferestre Multiple.csproj.AssemblyReference.cache
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView_si_Aplicatii_cu_Ferestre_Multiple.Form1.resources
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView_si_Aplicatii_cu_Ferestre_Multiple.Properties.Resources.resources
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView si Aplicatii cu Ferestre Multiple.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView si Aplicatii cu Ferestre Multiple.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView si Aplicatii cu Ferestre Multiple.exe
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView si Aplicatii cu Ferestre Multiple.pdb
+C:\Users\daria\Desktop\PAW\Exercitii\DataGridView si Aplicatii cu Ferestre Multiple\obj\Debug\DataGridView_si_Aplicatii_cu_Ferestre_Multiple.FormAngajat.resources

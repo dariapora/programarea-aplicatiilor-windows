@@ -1,0 +1,17 @@
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\bin\Debug\Database.mdf
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\bin\Debug\Database_log.ldf
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\bin\Debug\Casa de Schimb Valutar.exe.config
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\bin\Debug\Casa de Schimb Valutar.exe
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\bin\Debug\Casa de Schimb Valutar.pdb
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schimb Valutar.csproj.AssemblyReference.cache
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.Form1.resources
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormIstoric.resources
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.Properties.Resources.resources
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schimb Valutar.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schimb Valutar.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schimb Valutar.exe
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schimb Valutar.pdb
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa de Schimb Valutar.exe.config
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormTranzactie.resources
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormCursuri.resources
+C:\Users\daria\Desktop\PAW\Proiect\Casa de Schimb Valutar\obj\Debug\Casa_de_Schimb_Valutar.FormAdminTranzactii.resources

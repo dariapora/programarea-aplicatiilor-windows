@@ -1,0 +1,7 @@
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\bin\Debug\DelegatiActiuniEvenimente.exe.config
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\bin\Debug\DelegatiActiuniEvenimente.exe
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\bin\Debug\DelegatiActiuniEvenimente.pdb
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\obj\Debug\DelegatiActiuniEvenimente.csproj.AssemblyReference.cache
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\obj\Debug\DelegatiActiuniEvenimente.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\obj\Debug\DelegatiActiuniEvenimente.exe
+C:\Users\daria\Desktop\PAW\Exercitii\Delegati, Actiuni si Evenimente\DelegatiActiuniEvenimente\DelegatiActiuniEvenimente\obj\Debug\DelegatiActiuniEvenimente.pdb

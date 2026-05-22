@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\casabilete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\casabilete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\biletsenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\biletsenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\biletvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\biletvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|c:\\users\\daria\\desktop\\paw\\exercitii\\poo in c#\\poo\\poo\\ivalidabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F157D2C-CC3C-4914-B95D-6E22465CCD70}|POO\\POO.csproj|solutionrelative:poo\\ivalidabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CasaBilete.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\CasaBilete.cs",
+              "RelativeDocumentMoniker": "POO\\CasaBilete.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\CasaBilete.cs",
+              "RelativeToolTip": "POO\\CasaBilete.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:47:25.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BiletVIP.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\BiletVIP.cs",
+              "RelativeDocumentMoniker": "POO\\BiletVIP.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\BiletVIP.cs",
+              "RelativeToolTip": "POO\\BiletVIP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:42:43.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BiletSenior.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\BiletSenior.cs",
+              "RelativeDocumentMoniker": "POO\\BiletSenior.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\BiletSenior.cs",
+              "RelativeToolTip": "POO\\BiletSenior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:38:36.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BiletStudent.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\BiletStudent.cs",
+              "RelativeDocumentMoniker": "POO\\BiletStudent.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\BiletStudent.cs",
+              "RelativeToolTip": "POO\\BiletStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:30:40.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\Client.cs",
+              "RelativeDocumentMoniker": "POO\\Client.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\Client.cs",
+              "RelativeToolTip": "POO\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:19:15.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPretCalculabil.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\IPretCalculabil.cs",
+              "RelativeDocumentMoniker": "POO\\IPretCalculabil.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\IPretCalculabil.cs",
+              "RelativeToolTip": "POO\\IPretCalculabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:03:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bilet.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\Bilet.cs",
+              "RelativeDocumentMoniker": "POO\\Bilet.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\Bilet.cs",
+              "RelativeToolTip": "POO\\Bilet.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:09:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IValidabil.cs",
+              "DocumentMoniker": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\IValidabil.cs",
+              "RelativeDocumentMoniker": "POO\\IValidabil.cs",
+              "ToolTip": "C:\\Users\\daria\\Desktop\\PAW\\Exercitii\\POO in C#\\POO\\POO\\IValidabil.cs",
+              "RelativeToolTip": "POO\\IValidabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:04:06.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

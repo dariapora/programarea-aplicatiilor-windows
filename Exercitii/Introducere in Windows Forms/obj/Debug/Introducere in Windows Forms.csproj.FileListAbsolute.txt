@@ -1,0 +1,10 @@
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\bin\Debug\Introducere in Windows Forms.exe.config
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\bin\Debug\Introducere in Windows Forms.exe
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\bin\Debug\Introducere in Windows Forms.pdb
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere in Windows Forms.csproj.AssemblyReference.cache
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere_in_Windows_Forms.Form1.resources
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere_in_Windows_Forms.Properties.Resources.resources
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere in Windows Forms.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere in Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere in Windows Forms.exe
+C:\Users\daria\Desktop\PAW\Exercitii\Introducere in Windows Forms\obj\Debug\Introducere in Windows Forms.pdb
